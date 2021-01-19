@@ -1,1 +1,1 @@
-# background-generator
+linear-gradient generator
